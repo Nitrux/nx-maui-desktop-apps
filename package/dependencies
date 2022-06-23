@@ -1,0 +1,49 @@
+# Comments start with a '#'.
+# Empty lines are ignored.
+
+#    = CLI Apps =
+
+htop
+micro
+nsnake
+tmate
+
+#    = CLI Utils =
+
+axel
+curl
+git
+p7zip-full
+rsync
+unrar
+unzip
+wget
+zip
+
+#    = NX Desktop Apps =
+
+nx-software-center-git
+
+#    = KDE Applications =
+
+sddm
+
+#    = Maui apps =
+
+maui-apps-git
+maui-apps-extra-git
+maui-shell-git
+
+#    = Other KDE or Qt Software =
+
+plasma-systemmonitor
+
+#    = Other Software =
+
+#    = VMetal Supporting bits =
+
+#    = Supporting bits =
+
+fakeroot
+flatpak
+xdg-desktop-portal-kde
